@@ -1,0 +1,17 @@
+# Logs
+*.log
+*.nohup.log
+nohup.out
+
+# Evaluation outputs (regenerable from code)
+results/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
